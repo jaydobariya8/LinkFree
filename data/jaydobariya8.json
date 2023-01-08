@@ -1,0 +1,30 @@
+{
+  "name": "Jay Dobariya",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Explring tech | Learning full-stack | Learning from Communities",
+  "tags": ["Web-Dev", "Beginner", "Communities"],
+  "avatar": "https://github.com/jaydobariya8.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Jay_dobariya_",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/jay-dobariya-3208b8218/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/jaydobariya8",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://instagram.com/jay_dobariya_8",
+      "icon": "FaInstagram"
+    }
+  ]
+}
